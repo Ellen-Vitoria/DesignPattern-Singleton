@@ -17,6 +17,6 @@ public class Fila {
     }
     public void RemoveDocumento(){
     }
-    public void TodosDocumentos(){
+    public void RemoveTodosDocumentos(){
     }
 }
