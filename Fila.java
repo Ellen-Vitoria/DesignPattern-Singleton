@@ -12,4 +12,11 @@ public class Fila {
         }
         return instance;
     }
+
+    public void ImprimeDocumento(){
+    }
+    public void RemoveDocumento(){
+    }
+    public void TodosDocumentos(){
+    }
 }
